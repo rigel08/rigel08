@@ -1,51 +1,26 @@
 # Srihith Rao
 
-### AI & Backend Developer
+Python developer exploring applied AI, backend systems, and local AI tools.
 
-I build AI-powered applications, backend systems, and developer infrastructure.
+I build practical applications and work on making their behavior explainable, testable, and reproducible.
 
-Currently building **AI Recruiter OS** and **Flowspace**, while going deeper into distributed systems, Redis, and AWS.
+## Selected projects
 
-### Tech Stack
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [AI Recruiter OS](https://github.com/rigel08/ai-recruiter-os) | Resume parsing, evidence-backed extraction, and recruitment workflows with rule-based scoring and a labelled evaluation set. | Python · FastAPI |
+| [ViceClip](https://github.com/rigel08/viceclip) | Local video-processing pipeline combining transcription, vision, narration, captions, and a persistent job queue. | Python · Whisper · Qwen · SQLite |
+| [FlowSpace](https://github.com/rigel08/flowspace-extension) | Browser extension for focus sessions, ambient audio, reminders, and local music. | JavaScript · Manifest V3 · IndexedDB |
+| [still.](https://github.com/rigel08/still-app) | A quiet space for check-ins and connection, with account and local demo modes. | TypeScript · React · FastAPI · PostgreSQL |
 
-**Languages**
+## Working with
 
-Python · TypeScript · JavaScript · SQL
+**Python · FastAPI · SQL · JavaScript · TypeScript · React · Git · Docker**
 
-**Backend**
+## Learning next
 
-FastAPI · PostgreSQL · Redis
-
-**Infrastructure**
-
-Docker · AWS · Terraform · GitHub Actions
-
-**AI**
-
-LLMs · Machine Learning · AI-powered applications
-
-### Featured Projects
-
-* 🤖 **[AI Recruiter OS](https://github.com/rigel08/ai-recruiter-os)**
-  AI-powered recruiting platform for resume analysis, candidate matching, and intelligent job ranking.
-
-* 🎧 **[Flowspace](https://github.com/rigel08/flowspace-extension)**
-  Browser-based productivity and focus experience built around music and ambient sound.
-
-* 🔐 **[MFA Auth App](https://github.com/rigel08/mfa-auth-app)**
-  Authentication application exploring secure multi-factor authentication with Python.
-
-* ☁️ **[AWS Three-Tier Infrastructure](https://github.com/rigel08/terraform-aws-three-tier-infra)**
-  AWS infrastructure provisioned with Terraform using a three-tier architecture.
-
-### Currently Learning
-
-Distributed Systems · System Design · Redis · AWS
-
-### What I'm Building Next
-
-Production-grade backend systems that combine **FastAPI, PostgreSQL, Redis, Docker, AWS, and AI**.
+Model evaluation, PyTorch, and reproducible ML experiments—building on my application development work.
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/rigel08)
+Hyderabad, India · [LinkedIn](https://www.linkedin.com/in/srihithrao)
